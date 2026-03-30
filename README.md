@@ -18,3 +18,9 @@ The aim of my project is to provide a technical relief to small-town shopkeepers
 ## Steps to use
 - The project can be acquired from the Github website.
 - It should be run using Python in the computer.
+## Instructions for testing
+- For a mock-up , use integers in the place of inputs.
+- Enter them using enter-record function.
+- Then , view it using view-record function.
+- then, delete it using delete-record function.
+- Finally, if your entered value is deleted , then the program is functioning properly.
